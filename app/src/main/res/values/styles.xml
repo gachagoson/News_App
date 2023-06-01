@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BlueNews.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize the style properties if needed -->
+        <!-- For example, you can set background color, text color, etc. -->
+    </style>
+
+
+</resources>
